@@ -6,7 +6,7 @@
 
 ## 🌐 Live Website
 
-**Visit:** [https://anushkamidda.github.io/PRODIGY\_WD\_01/](https://anushkamidda.github.io/PRODIGY_WD_01/)
+**Visit:**  https://anushkamidda.github.io/PRODIGY_WD_01/
 
 ## 📄 Project Description
 
