@@ -37,18 +37,6 @@ The project was developed as part of the Web Development Internship (Task 01) un
 
 ---
 
-## 📁 Folder Structure
-
-```
-PRODIGY_WD_01/
-├── index.html
-├── style.css
-├── script.js
-├── README.md
-```
-
----
-
 ## 👤 Author
 
 **Anushka Midda**
