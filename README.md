@@ -38,8 +38,8 @@ This project fulfills the requirements of Task 01 of the Web Development Interns
 ## 👤 Author
 
 **Anushka Midda**
-Email: [anushkamidda2005@gmail.com](mailto:anushkamidda2005@gmail.com)
 GitHub: [github.com/AnushkaMidda](https://github.com/AnushkaMidda)
+
 LinkedIn: [linkedin.com/in/anushka-midda-4a8144282](https://www.linkedin.com/in/anushka-midda-4a8144282)
 
 ## ✨ Acknowledgement
