@@ -52,6 +52,7 @@ PRODIGY_WD_01/
 ## 👤 Author
 
 **Anushka Midda**
+
 🔗 GitHub: [github.com/AnushkaMidda](https://github.com/AnushkaMidda)
 
 🔗 LinkedIn: [linkedin.com/in/anushka-midda-4a8144282](https://www.linkedin.com/in/anushka-midda-4a8144282)
