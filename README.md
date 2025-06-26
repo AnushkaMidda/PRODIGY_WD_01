@@ -6,48 +6,64 @@
 
 ## 🌐 Live Website
 
-**Visit:**  https://anushkamidda.github.io/PRODIGY_WD_01/
+**Visit:** [https://anushkamidda.github.io/PRODIGY\_WD\_01/](https://anushkamidda.github.io/PRODIGY_WD_01/)
 
-## 📄 Project Description
+---
 
-**SonicMind** is a responsive and interactive landing page designed to explore the effect of music on the human mind. Built using HTML, CSS, and JavaScript, the website includes multiple dynamic sections like:
+## 📄 Project Overview
 
-* Fixed navbar with scroll-based style changes
-* Animated hero section with floating music notes
-* Informative "About" and "Effects" sections
-* A subscription/contact form
-* Social links
-* Footer
+**SonicMind** is a professionally designed responsive landing page focused on exploring the effects of music on the human mind. Built with clean and semantic HTML, styled using CSS3, and enhanced with JavaScript interactivity, this project delivers both functionality and visual appeal.
 
-This project fulfills the requirements of Task 01 of the Web Development Internship at **Prodigy InfoTech**.
+The project was developed as part of the Web Development Internship (Task 01) under **Prodigy InfoTech**, demonstrating a foundational understanding of modern frontend development practices.
 
-## ⚖️ Features
+---
 
-* Fully responsive design
-* Interactive navbar with scroll and hover effects
-* Smooth animations and gradients
-* Emotionally themed content for user connection
-* Floating music note animation in hero section
+## ⚖️ Key Features
 
-## 🎓 Tech Stack
+* ✔️ Responsive layout for mobile, tablet, and desktop
+* ✔️ Scroll-activated fixed navbar with dynamic color change
+* ✔️ Animated hero section with floating music notes
+* ✔️ Informative About and Effects sections
+* ✔️ Integrated contact form and social profile links
+* ✔️ Clean and modern UI with semantic HTML5 structure
 
-* **HTML5**
-* **CSS3** (Flexbox, animations, gradients)
-* **JavaScript** (DOM, scroll detection)
+---
+
+## 🎨 Tech Stack
+
+* **HTML5** – semantic structure
+* **CSS3** – styling, layout (Flexbox), animations
+* **JavaScript (Vanilla)** – scroll interactivity, DOM handling
+
+---
+
+## 📁 Folder Structure
+
+```
+PRODIGY_WD_01/
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+```
+
+---
 
 ## 👤 Author
 
 **Anushka Midda**
-GitHub: [github.com/AnushkaMidda](https://github.com/AnushkaMidda)
+🔗 GitHub: [github.com/AnushkaMidda](https://github.com/AnushkaMidda)
 
-LinkedIn: [linkedin.com/in/anushka-midda-4a8144282](https://www.linkedin.com/in/anushka-midda-4a8144282)
-
-## ✨ Acknowledgement
-
-A big thanks to **Prodigy InfoTech** for giving me this opportunity to explore creativity and frontend development through this internship. This project helped me gain confidence in HTML, CSS, and JavaScript while understanding how to build user-focused interfaces.
+🔗 LinkedIn: [linkedin.com/in/anushka-midda-4a8144282](https://www.linkedin.com/in/anushka-midda-4a8144282)
 
 ---
 
-Thank you for visiting my project! Feel free to reach out or share your feedback.
+## ✨ Acknowledgements
+
+Special thanks to **Prodigy InfoTech** for providing this learning opportunity through their Web Development Internship program. This project allowed me to enhance my frontend development skills and present a creative solution with real-world application potential.
+
+---
+
+Thank you for visiting my project! Feel free to share feedback or suggestions.
 
 **#ProdigyInfotech #WebDevelopmentInternship #HTML #CSS #JavaScript #SonicMind**
