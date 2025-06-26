@@ -320,3 +320,74 @@ body {
   position: relative;
   z-index: 1;
 }
+
+/* -------------------------------------- */
+/* 📱 Mobile Responsive Tweaks */
+/* -------------------------------------- */
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 15px 20px;
+  }
+
+  .nav-links {
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  .hero h1 {
+    font-size: 2em;
+  }
+
+  .hero p {
+    font-size: 1em;
+  }
+
+  .hero-content {
+    padding: 20px;
+  }
+
+  .effect-cards {
+    flex-direction: column;
+  }
+
+  .card {
+    max-width: 90%;
+    margin: 0 auto;
+  }
+
+  .subscribe-content {
+    padding: 10px;
+  }
+
+  .subscribe input,
+  .subscribe button {
+    font-size: 1em;
+  }
+
+  .about h2,
+  .effects-heading h2,
+  .subscribe h2,
+  .songs h2 {
+    font-size: 2em;
+  }
+
+  .about p,
+  .effects-heading p,
+  .subscribe p {
+    font-size: 1em;
+  }
+
+  .cta-button {
+    padding: 10px 20px;
+    font-size: 0.9em;
+  }
+
+  .music-notes span {
+    font-size: 1.2rem;
+  }
+}
+
